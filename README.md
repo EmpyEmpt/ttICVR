@@ -4,11 +4,15 @@
 
 ![image](predictions.jpg)
 
-## Explanation
+## EDA
+
+Exploratory data analysis can be found [here](notebooks/EDA.ipynb) or simply at `notebooks/EDA.ipynb`
+
+## Model training
 
 YOLOv4 was used as a model, fine-tuned for about an hour  
 
-I don't have a GPU and so fine-tuning was done in Colab, the exact same *.ipynb* file used is located at */notebooks/training.ipynb* or you can look at it [here on Colab](https://colab.research.google.com/drive/1hW_fgQIEouo54TICSulDyHxa0kiAbXzX?usp=sharing)  
+I don't have a GPU and so fine-tuning was done in Colab, the exact same *.ipynb* file used is located at `notebooks/training.ipynb`, [here](notebooks/training.ipynb) or you can look at it [here on Colab](https://colab.research.google.com/drive/1hW_fgQIEouo54TICSulDyHxa0kiAbXzX?usp=sharing)  
 
 ## How to use?
 
