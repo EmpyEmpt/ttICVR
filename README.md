@@ -1,5 +1,9 @@
 # Test task for `ICVR`
 
+## Example of results
+
+![image](predictions.jpg)
+
 ## Explanation
 
 YOLOv4 was used as a model, fine-tuned for about an hour  
